@@ -57,3 +57,21 @@ This project implements a **Verilog-based digital system** that calculates and s
 - **5 clock cycles**: Sequential output of sorted results
 - **Valid signal**: Indicates when outputs are ready
 - **Index + Area**: Paired output of heptagon ID and calculated area
+
+## 🧪 Testing & Verification
+
+### Testbench Features
+- **Comprehensive test vectors**: Multiple coordinate datasets
+- **Automatic checking**: Built-in result verification
+- **Debug signals**: Internal state monitoring
+- **Coverage analysis**: Functional and code coverage metrics
+
+### Debug Signals
+- `ans_area`: Correct area values
+- `ans_index`: Correct index sequence
+- `fail`: Error accumulation counter
+
+### Result
+![tb_result](https://github.com/user-attachments/assets/934d09ac-9024-4778-8695-b2e32333258a)
+
+
