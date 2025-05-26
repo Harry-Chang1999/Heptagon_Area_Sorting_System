@@ -19,7 +19,6 @@ This project implements a **Verilog-based digital system** that calculates and s
 - **Vector Mathematics**: Cross product calculations for coordinate sorting
 - **Geometric Processing**: Shoelace formula implementation for polygon area calculation
 - **Sorting Algorithms**: Bubble sort for area ranking
-- **Real-time Processing**: Pipelined architecture for continuous operation
 
 ### Processing Pipeline
 1. **Data Input** (35 coordinate pairs for 5 heptagons)
