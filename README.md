@@ -57,6 +57,10 @@ This project implements a **Verilog-based digital system** that calculates and s
 - **Valid signal**: Indicates when outputs are ready
 - **Index + Area**: Paired output of heptagon ID and calculated area
 
+## 🚀 Prerequisites
+- **Verilog Simulator**: NCVerilog 15.20
+- **Waveform Viewer**: nWave (Verdi_P-2019.06)
+
 ## 🧪 Testing & Verification
 
 ### Testbench Features
